@@ -4,9 +4,7 @@
 
 Employee attrition is one of the most critical challenges faced by organizations. High employee turnover increases recruitment costs, reduces productivity, and impacts overall business performance.
 
-This project analyzes the ** HR Employee Attrition Dataset** using Python to identify the major factors contributing to employee attrition and provides actionable business recommendations for improving employee retention.
-
-The project follows a complete Data Analytics workflow from Business Understanding to Business Recommendations, making it suitable for recruiters and hiring managers evaluating entry-level (0–2 years) Data Analyst portfolios.
+This project analyzes the **HR Employee Attrition Dataset** using Python to identify the major factors contributing to employee attrition and provides actionable business recommendations for improving employee retention.
 
 ---
 
