@@ -1,4 +1,41 @@
-# 📊 HR Employee Attrition Analysis
+# 📌 Project Highlights
+
+✅ End-to-End Data Analytics Project
+
+✅ Data Cleaning & Feature Engineering
+
+✅ Exploratory Data Analysis (EDA)
+
+✅ Statistical Hypothesis Testing
+
+✅ Business Insights & Recommendations
+
+✅ Recruiter-Friendly Documentation
+
+---
+
+# 🎯 Skills Demonstrated
+
+* Data Cleaning
+* Data Wrangling
+* Exploratory Data Analysis
+* Data Visualization
+* Statistical Analysis
+* Business Analysis
+* Feature Engineering
+* Business Storytelling
+* HR Analytics
+* Python Programming
+
+---
+
+# 👨‍💻 Author
+
+**Durwang Deotale**
+
+**Aspiring Data Analyst | Python | SQL | Power BI | Excel**
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.# 📊 HR Employee Attrition Analysis
 
 ## 📌 Project Overview
 
